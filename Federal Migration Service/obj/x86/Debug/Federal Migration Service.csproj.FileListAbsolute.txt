@@ -1,0 +1,86 @@
+C:\Users\Озармехр\AppData\Local\Temporary Projects\Federal Migration Service\bin\Debug\Federal Migration Service.exe
+C:\Users\Озармехр\AppData\Local\Temporary Projects\Federal Migration Service\bin\Debug\Federal Migration Service.pdb
+C:\Users\Озармехр\AppData\Local\Temporary Projects\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Form1.resources
+C:\Users\Озармехр\AppData\Local\Temporary Projects\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Properties.Resources.resources
+C:\Users\Озармехр\AppData\Local\Temporary Projects\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csproj.GenerateResource.Cache
+C:\Users\Озармехр\AppData\Local\Temporary Projects\Federal Migration Service\obj\x86\Debug\Federal Migration Service.exe
+C:\Users\Озармехр\AppData\Local\Temporary Projects\Federal Migration Service\obj\x86\Debug\Federal Migration Service.pdb
+C:\Users\Озармехр\AppData\Local\Temporary Projects\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.ShowFMS.resources
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.exe
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.pdb
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.exe
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.pdb
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Form1.resources
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Properties.Resources.resources
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csproj.GenerateResource.Cache
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.exe.config
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Bunifu_UI_v1.51.dll
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csprojResolveAssemblyReference.cache
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.UpdateTab.resources
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\CircularProgressBar.dll
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\CircularProgressBar.xml
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Interop.MsoEuro.dll
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csproj.ResolveComReference.cache
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Quest.resources
+G:\3 курс\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.exe.config
+G:\3 курс\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Interop.MsoEuro.dll
+G:\3 курс\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csproj.ResolveComReference.cache
+G:\3 курс\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.exe
+G:\3 курс\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.pdb
+H:\3 курс\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.exe.config
+H:\3 курс\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Interop.MsoEuro.dll
+H:\3 курс\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csproj.ResolveComReference.cache
+H:\3 курс\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.exe
+H:\3 курс\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.pdb
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.exe.config
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Interop.MsoEuro.dll
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csproj.ResolveComReference.cache
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.exe
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.pdb
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.exe
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.pdb
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Bunifu_UI_v1.51.dll
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\CircularProgressBar.dll
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\CircularProgressBar.xml
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csprojResolveAssemblyReference.cache
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Form1.resources
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Properties.Resources.resources
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Quest.resources
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.UpdateTab.resources
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csproj.GenerateResource.Cache
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\ru\Microsoft.SqlServer.SqlEnum.resources.dll
+C:\Users\Озармехр\Desktop\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Form2.resources
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\bin\Debug\ru\Microsoft.SqlServer.SqlEnum.resources.dll
+D:\3course\Управление данными\Курсовая работа УД\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Form2.resources
+C:\Users\Озармехр\Desktop\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.exe.config
+C:\Users\Озармехр\Desktop\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Interop.MsoEuro.dll
+C:\Users\Озармехр\Desktop\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csproj.ResolveComReference.cache
+C:\Users\Озармехр\Desktop\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.exe
+C:\Users\Озармехр\Desktop\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.pdb
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.exe.config
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Interop.MsoEuro.dll
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csproj.ResolveComReference.cache
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.exe
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.pdb
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.exe
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\Federal Migration Service.pdb
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\CircularProgressBar.xml
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\ru\Microsoft.SqlServer.ConnectionInfo.resources.dll
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\ru\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\ru\Microsoft.SqlServer.Smo.resources.dll
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\ru\Microsoft.SqlServer.SmoExtended.resources.dll
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\bin\Debug\ru\Microsoft.SqlServer.SqlEnum.resources.dll
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csprojResolveAssemblyReference.cache
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Form1.resources
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Form2.resources
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Properties.Resources.resources
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.Quest.resources
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal_Migration_Service.UpdateTab.resources
+D:\Учеба 2014-2018\3course 1\Управление данными\Federal Migration Service\Federal Migration Service\obj\x86\Debug\Federal Migration Service.csproj.GenerateResource.Cache

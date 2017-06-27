@@ -1,0 +1,36 @@
+J:\Управление данными\ClientSQL\ClientSQL\bin\Debug\ClientSQL.exe
+J:\Управление данными\ClientSQL\ClientSQL\bin\Debug\ClientSQL.pdb
+J:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Properties.Resources.resources
+J:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.csproj.GenerateResource.Cache
+J:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.exe
+J:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.pdb
+J:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Login.resources
+J:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Admin.resources
+J:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Operator.resources
+J:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.csprojResolveAssemblyReference.cache
+F:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.exe
+F:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.pdb
+F:\Управление данными\ClientSQL\ClientSQL\bin\Debug\ClientSQL.exe.config
+F:\Управление данными\ClientSQL\ClientSQL\bin\Debug\ClientSQL.exe
+F:\Управление данными\ClientSQL\ClientSQL\bin\Debug\ClientSQL.pdb
+F:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Admin.resources
+F:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Login.resources
+F:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Operator.resources
+F:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Properties.Resources.resources
+F:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Управление данными\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.ConSettings.resources
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\bin\Debug\ClientSQL.exe.config
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.exe
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.pdb
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\bin\Debug\ClientSQL.exe
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\bin\Debug\ClientSQL.pdb
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Admin.resources
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.ConSettings.resources
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Login.resources
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Operator.resources
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\obj\x86\Debug\ClientSQL.Properties.Resources.resources
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\144038\Desktop\ClientSQL\ClientSQL\obj\x86\Debug\GenerateResource.write.1.tlog
